@@ -9,4 +9,4 @@ Photo List
 
 Photo View
 
-![image](https://user-images.githubusercontent.com/74905634/187972258-83daa849-fbbb-4f90-aa3b-cd2050f8e8e4.png)
+![image](https://user-images.githubusercontent.com/74905634/187975543-c21bc2b6-1d4d-4a73-a3f5-fedb5ec59fe9.png)
